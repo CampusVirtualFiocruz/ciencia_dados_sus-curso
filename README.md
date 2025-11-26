@@ -6,13 +6,17 @@ Formação Breve em Ciência de Dados e Informações para o SUS
 ================================================================================
 
 VISÃO GERAL
+
 -----------
+
 Este conjunto contém 3 scripts progressivos de R para ensinar análise de dados
 de saúde pública utilizando dados do SIM (Sistema de Informações de Mortalidade).
 
 
 ================================================================================
+
 SCRIPT 1: aula2_script_1.R
+
 ================================================================================
 
 TÍTULO: Iniciando no R - Conceitos Fundamentais
@@ -49,7 +53,9 @@ PÚBLICO-ALVO: Iniciantes absolutos em programação
 
 
 ================================================================================
+
 SCRIPT 2: aula2_script_2.R
+
 ================================================================================
 
 TÍTULO: Trabalhando com Dados - Tidyverse e Manipulação de Dados do SUS
@@ -136,7 +142,9 @@ manipulação de dados
 
 
 ================================================================================
+
 SCRIPT 3: aula2_script_3.R
+
 ================================================================================
 
 TÍTULO: Atividades Práticas e Visualização de Dados
@@ -217,7 +225,9 @@ conhecimentos através de exercícios práticos e aprender visualização de dad
 
 
 ================================================================================
+
 SEQUÊNCIA RECOMENDADA DE ESTUDO
+
 ================================================================================
 
 DIA 1 - MANHÃ:
@@ -279,7 +289,10 @@ install.packages(c("tidyverse", "lubridate", "readxl", "plotly", "scales"))
 
 
 ================================================================================
+
+
 OBJETIVOS DE APRENDIZAGEM
+
 ================================================================================
 
 Ao completar os 3 scripts, o aluno será capaz de:
@@ -334,7 +347,9 @@ DADOS DE SAÚDE:
 
 
 ================================================================================
+
 SUPORTE E DÚVIDAS
+
 ================================================================================
 
 Durante o curso:
@@ -349,7 +364,9 @@ Após o curso:
 
 
 ================================================================================
+
 LICENÇA E USO
+
 ================================================================================
 
 Este material foi desenvolvido para o curso "Formação Breve em Ciência de 
@@ -373,5 +390,5 @@ contato com a equipe do curso.
 
 
 ================================================================================
-ÚLTIMA ATUALIZAÇÃO: Novembro 2024
+ÚLTIMA ATUALIZAÇÃO: Novembro 2025
 ================================================================================
