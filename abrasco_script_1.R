@@ -1,6 +1,5 @@
 # ==============================================================================
-# AULA 2 - INTRODUÇÃO À LINGUAGEM DE PROGRAMAÇÃO R
-# Curso: Análise de Dados para Pesquisa no SUS
+# Curso: Formação Breve em Ciência de Dados e Informações para o SUS
 # Script: Iniciando no R
 # ==============================================================================
 

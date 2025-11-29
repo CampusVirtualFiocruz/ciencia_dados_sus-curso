@@ -1,7 +1,6 @@
 # ==============================================================================
-# AULA 2 - INTRODUÇÃO À LINGUAGEM DE PROGRAMAÇÃO R
-# Curso: Análise de Dados para Pesquisa no SUS
-# Script: Trabalhando com Dados 
+# Curso: Formação Breve em Ciência de Dados e Informações para o SUS
+# Script: Manipulação de Dados - Parte 1 
 # ==============================================================================
 
 # ------------------------------------------------------------------------------
@@ -83,7 +82,7 @@ packageVersion("dplyr")
 
 # Definir diretório de trabalho
 # Altere para o caminho correto no seu computador
-setwd("C:/caminho/para/sua/pasta")
+setwd("/Users/pilarveras/Desktop/Curso Abrascão/repositório/dados")
 
 # Verificar diretório atual
 getwd()
@@ -112,6 +111,7 @@ rm(df_xlsx, df_parquet)
 
 # 5.1 Visualizar estrutura dos dados
 glimpse(df_csv)
+
 # Saída mostra: nome das variáveis, tipo e exemplos de valores
 
 # 5.2 Visualizar primeiras linhas
