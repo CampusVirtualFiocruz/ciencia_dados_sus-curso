@@ -662,8 +662,8 @@ Este material foi desenvolvido para fins educacionais e pode ser usado livrement
 
 ### COMO CITAR
 ```
-[Nome do Curso]. (2024). Formação Breve em Ciência de Dados e Informações
-para o SUS - Scripts de R. Salvador: [Instituição].
+[Nome do Curso]. (2025). Formação Breve em Ciência de Dados e Informações
+para o SUS - Scripts de R. Rio de Janeiro: Campus Virtual.
 ```
 
 ---
