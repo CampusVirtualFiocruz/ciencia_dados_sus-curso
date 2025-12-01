@@ -301,57 +301,6 @@ Este conjunto contém **4 scripts progressivos de R** para ensinar análise de d
 
 ---
 
-## 📅 SEQUÊNCIA RECOMENDADA DE ESTUDO
-
-### CRONOGRAMA DE 2 DIAS (16 horas)
-
-#### DIA 1 - MANHÃ (4 horas)
-```
-09:00 - 09:30  Apresentação do curso e objetivos
-09:30 - 10:15  Script 1: Conceitos fundamentais
-10:15 - 10:30  ☕ PAUSA - Café
-10:30 - 12:00  Script 2: Início (Seções 1-7)
-12:00 - 13:00  🍽️ ALMOÇO
-```
-
-#### DIA 1 - TARDE (4 horas)
-```
-13:00 - 14:30  Script 2: Continuação (Seções 8-15)
-14:30 - 14:45  ☕ PAUSA - Café
-14:45 - 16:00  Script 3: Atividades práticas
-16:00 - 17:00  Exercícios em duplas/grupos
-```
-
-#### DIA 2 - MANHÃ (4 horas)
-```
-09:00 - 09:45  Revisão do gabarito (Script 3)
-09:45 - 11:00  Script 4: Visualização com ggplot2
-11:00 - 11:15  ☕ PAUSA - Café
-11:15 - 12:30  Script 4: Continuação (ggplot2 avançado)
-12:30 - 13:30  🍽️ ALMOÇO
-```
-
-#### DIA 2 - TARDE (4 horas)
-```
-13:30 - 15:00  Script 4: Visualização com plotly
-15:00 - 15:15  ☕ PAUSA - Café
-15:15 - 16:30  Projeto final: Análise completa
-16:30 - 17:00  Apresentações e encerramento
-```
-
-### MODALIDADE INTENSIVA (1 dia - 8 horas)
-- **Manhã:** Scripts 1 e 2 (conceitos e manipulação)
-- **Tarde:** Scripts 3 e 4 (prática e visualização)
-- *Menor profundidade, foco em conceitos essenciais*
-
-### ESTUDO AUTODIDATA
-- **Semana 1:** Scripts 1 e 2 (2-3 sessões de 2h cada)
-- **Semana 2:** Script 3 (2-3 sessões de 1-2h cada)
-- **Semana 3:** Script 4 (3-4 sessões de 1-2h cada)
-- **Semana 4:** Projeto pessoal com seus dados
-
----
-
 ## 📊 DADOS NECESSÁRIOS
 
 ### ARQUIVOS PRINCIPAIS
