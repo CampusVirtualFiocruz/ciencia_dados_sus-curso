@@ -310,6 +310,7 @@ Este conjunto contém **4 scripts progressivos de R** para ensinar análise de d
 
 ### ARQUIVO PROCESSADO
 - `sim_salvador_2023_processado.csv` (gerado pelo Script 2)
+- `sim_salvador_2023_visualizacao.csv` (gerado pelo Script 3)
 
 ### ESTRUTURA DO DATASET
 
